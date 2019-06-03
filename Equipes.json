@@ -1,0 +1,266 @@
+[
+		{ 
+ 			"nom" : "Angleterre", 
+ 			"groupe" : "D",
+ 			"selectionneur" : "Roy Hodgson",
+ 			"classementFifa" : "10",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Cote d'Ivoire", 
+ 			"groupe" : "C",
+ 			"selectionneur" : "Sabri Lamouchi",
+ 			"classementFifa" : "23",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Cameroun", 
+ 			"groupe" : "A",
+ 			"selectionneur" : "Volker Finke",
+ 			"classementFifa" : "56",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Croatie", 
+ 			"groupe" : "A",
+ 			"selectionneur" : "Niko Kovac",
+ 			"classementFifa" : "18",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Iran", 
+ 			"groupe" : "F",
+ 			"selectionneur" : "Carlos Queiroz",
+ 			"classementFifa" : "43",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Australie", 
+ 			"groupe" : "B",
+ 			"selectionneur" : "Ange Postecoglou",
+ 			"classementFifa" : "62",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Honduras", 
+ 			"groupe" : "E",
+ 			"selectionneur" : "Luis Fernando Suarez",
+ 			"classementFifa" : "33",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Equateur", 
+ 			"groupe" : "E",
+ 			"selectionneur" : "Reinaldo Rueda",
+ 			"classementFifa" : "26",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Uruguay", 
+ 			"groupe" : "D",
+ 			"selectionneur" : "Oscar Tabarez",
+ 			"classementFifa" : "7",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Russie", 
+ 			"groupe" : "H",
+ 			"selectionneur" : "Fabio Capello",
+ 			"classementFifa" : "19",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Grece", 
+ 			"groupe" : "C",
+ 			"selectionneur" : "Fernando Santos",
+ 			"classementFifa" : "12",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Belgique", 
+ 			"groupe" : "H",
+ 			"selectionneur" : "Marc Wilmots",
+ 			"classementFifa" : "11",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Colombie", 
+ 			"groupe" : "C",
+ 			"selectionneur" : "Jose Pekerman",
+ 			"classementFifa" : "8",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Coree du Sud", 
+ 			"groupe" : "H",
+ 			"selectionneur" : "Hong Myung-Bo",
+ 			"classementFifa" : "57",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "France", 
+ 			"groupe" : "E",
+ 			"selectionneur" : "Didier Deschamps",
+ 			"classementFifa" : "17",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Portugal", 
+ 			"groupe" : "G",
+ 			"selectionneur" : "Paulo Bento",
+ 			"classementFifa" : "4",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Espagne", 
+ 			"groupe" : "B",
+ 			"selectionneur" : "Vicente del Bosque",
+ 			"classementFifa" : "1",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Nigeria", 
+ 			"groupe" : "F",
+ 			"selectionneur" : "Stephen Keshi",
+ 			"classementFifa" : "44",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Japon", 
+ 			"groupe" : "C",
+ 			"selectionneur" : "Alberto Zaccheroni",
+ 			"classementFifa" : "46",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Chili", 
+ 			"groupe" : "B",
+ 			"selectionneur" : "Jorge Sampaoli",
+ 			"classementFifa" : "14",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Italie", 
+ 			"groupe" : "D",
+ 			"selectionneur" : "Cesare Prandelli",
+ 			"classementFifa" : "9",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Ghana", 
+ 			"groupe" : "G",
+ 			"selectionneur" : "James Kwesi Appiah",
+ 			"classementFifa" : "37",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Equipe", 
+ 			"groupe" : "Groupe",
+ 			"selectionneur" : "Selectionneur",
+ 			"classementFifa" : "Classement FIFA",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Suisse", 
+ 			"groupe" : "E",
+ 			"selectionneur" : "Ottmar Hitzfeld",
+ 			"classementFifa" : "6",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Bosnie-Herzegovine", 
+ 			"groupe" : "F",
+ 			"selectionneur" : "Safet Susic",
+ 			"classementFifa" : "21",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Bresil", 
+ 			"groupe" : "A",
+ 			"selectionneur" : "Luiz Felipe Scolari",
+ 			"classementFifa" : "3",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Argentine", 
+ 			"groupe" : "F",
+ 			"selectionneur" : "Alejandro Sabella",
+ 			"classementFifa" : "5",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Mexique", 
+ 			"groupe" : "A",
+ 			"selectionneur" : "Miguel Herrera",
+ 			"classementFifa" : "20",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Pays-Bas", 
+ 			"groupe" : "B",
+ 			"selectionneur" : "Louis van Gaal",
+ 			"classementFifa" : "15",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Costa Rica", 
+ 			"groupe" : "D",
+ 			"selectionneur" : "Jorge Luis Pinto",
+ 			"classementFifa" : "28",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Etats-Unis", 
+ 			"groupe" : "G",
+ 			"selectionneur" : "Jurgen Klinsmann",
+ 			"classementFifa" : "13",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Allemagne", 
+ 			"groupe" : "G",
+ 			"selectionneur" : "Joachim Low",
+ 			"classementFifa" : "2",
+ 			"effectif" : "",
+ 			"selection" : ""
+		},
+		{ 
+ 			"nom" : "Algerie", 
+ 			"groupe" : "H",
+ 			"selectionneur" : "Vahid Halilhodzic",
+ 			"classementFifa" : "22",
+ 			"effectif" : "",
+ 			"selection" : ""
+		}
+	]

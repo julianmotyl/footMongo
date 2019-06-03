@@ -1,0 +1,88 @@
+[
+  {
+    "HomeTeam": "France",
+    "AwayTeam": "Italie",
+    "HomeScore": 2,
+    "AwayScore": 1,
+    "BestHomePlayer": {
+      "Name": "Antoine Griezmann",
+      "Note": 7
+    },
+    "BestAwayPlayer": {
+      "Name": "Andrea Pirlo",
+      "Note": 6
+    }
+  },
+
+  {
+    "HomeTeam": "Cameroun",
+    "AwayTeam": "Angleterre",
+    "HomeScore": 0,
+    "AwayScore": 2,
+    "BestHomePlayer": {
+      "Name": "Vincent Aboubakar",
+      "Note": 5
+    },
+    "BestAwayPlayer": {
+      "Name": "Harry Kane",
+      "Note": 8
+    }
+  },
+
+  {
+    "HomeTeam": "Croatie",
+    "AwayTeam": "Brésil",
+    "HomeScore": 1,
+    "AwayScore": 3,
+    "BestHomePlayer": {
+      "Name": "Luka Modric",
+      "Note": 6
+    },
+    "BestAwayPlayer": {
+      "Name": "Neymar",
+      "Note": 8
+    }
+  },
+  {
+    "HomeTeam": "Espagne",
+    "AwayTeam": "Colombie",
+    "HomeScore": 1,
+    "AwayScore": 1,
+    "BestHomePlayer": {
+      "Name": "Iker Casillas",
+      "Note": 6
+    },
+    "BestAwayPlayer": {
+      "Name": "James Rodriguez",
+      "Note": 7
+    }
+  },
+  {
+    "HomeTeam": "France",
+    "AwayTeam": "Angleterre",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "BestHomePlayer": {
+      "Name": "Paul Pogba",
+      "Note": 7
+    },
+    "BestAwayPlayer": {
+      "Name": "Frank Lampard",
+      "Note": 5
+    }
+  },
+  {
+    "HomeTeam": "Allemagne",
+    "AwayTeam": "Argentine",
+    "HomeScore": 1,
+    "AwayScore": 0,
+    "BestHomePlayer": {
+      "Name": "Mario Götze",
+      "Note": 7
+    },
+    "BestAwayPlayer": {
+      "Name": "Lionel Messi",
+      "Note": 6
+    }
+  }
+]
